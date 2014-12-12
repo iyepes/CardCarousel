@@ -27,8 +27,6 @@
 		F8ABC1101A3AD38F006BD405 /* Logo3.png in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC10B1A3AD38F006BD405 /* Logo3.png */; };
 		F8ABC1111A3AD38F006BD405 /* Logo4.png in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC10C1A3AD38F006BD405 /* Logo4.png */; };
 		F8ABC1121A3AD38F006BD405 /* Logo5.png in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC10D1A3AD38F006BD405 /* Logo5.png */; };
-		F8ABC1171A3B382A006BD405 /* TitleTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F8ABC1151A3B382A006BD405 /* TitleTableViewCell.m */; };
-		F8ABC1181A3B382A006BD405 /* TitleTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC1161A3B382A006BD405 /* TitleTableViewCell.xib */; };
 		F8ABC1221A3B4881006BD405 /* Colours.m in Sources */ = {isa = PBXBuildFile; fileRef = F8ABC1211A3B4881006BD405 /* Colours.m */; };
 /* End PBXBuildFile section */
 
@@ -60,9 +58,6 @@
 		F8ABC10B1A3AD38F006BD405 /* Logo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo3.png; sourceTree = SOURCE_ROOT; };
 		F8ABC10C1A3AD38F006BD405 /* Logo4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo4.png; sourceTree = SOURCE_ROOT; };
 		F8ABC10D1A3AD38F006BD405 /* Logo5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo5.png; sourceTree = SOURCE_ROOT; };
-		F8ABC1141A3B382A006BD405 /* TitleTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TitleTableViewCell.h; sourceTree = SOURCE_ROOT; };
-		F8ABC1151A3B382A006BD405 /* TitleTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TitleTableViewCell.m; sourceTree = SOURCE_ROOT; };
-		F8ABC1161A3B382A006BD405 /* TitleTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TitleTableViewCell.xib; sourceTree = SOURCE_ROOT; };
 		F8ABC1201A3B4881006BD405 /* Colours.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Colours.h; sourceTree = SOURCE_ROOT; };
 		F8ABC1211A3B4881006BD405 /* Colours.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Colours.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
@@ -121,9 +116,6 @@
 				0148358E13A36C3700E687AC /* iCarouselExampleAppDelegate.h */,
 				0148358F13A36C3700E687AC /* MainWindow.xib */,
 				0148359113A36C3700E687AC /* iCarouselExampleViewController.xib */,
-				F8ABC1141A3B382A006BD405 /* TitleTableViewCell.h */,
-				F8ABC1151A3B382A006BD405 /* TitleTableViewCell.m */,
-				F8ABC1161A3B382A006BD405 /* TitleTableViewCell.xib */,
 				01308D9913491C3500453707 /* Supporting Files */,
 			);
 			name = iCarouselTest;
@@ -237,7 +229,6 @@
 				F8ABC1111A3AD38F006BD405 /* Logo4.png in Resources */,
 				0148359613A36C3700E687AC /* iCarouselExampleViewController.xib in Resources */,
 				01C5BF7C17A43F8300B7B0BC /* Default-568h@2x.png in Resources */,
-				F8ABC1181A3B382A006BD405 /* TitleTableViewCell.xib in Resources */,
 				F831F1211A3896B1009FF4FD /* Xcode-header.png in Resources */,
 				F831F1171A3855F0009FF4FD /* Xcode-background.png in Resources */,
 				F8ABC1101A3AD38F006BD405 /* Logo3.png in Resources */,
@@ -251,7 +242,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F8ABC1171A3B382A006BD405 /* TitleTableViewCell.m in Sources */,
 				F8ABC1221A3B4881006BD405 /* Colours.m in Sources */,
 				F831F11F1A38632A009FF4FD /* iCarousel.m in Sources */,
 				0148358813A36C2000E687AC /* main.m in Sources */,

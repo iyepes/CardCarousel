@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7EEC1F3F-7683-47E3-9A43-10C744C97F4C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iCarouselTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6746DF13F41D247540A62DFECA0DC4DBF8B84F07</key>
+		<string>https://github.com/iyepes/CardCarousel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iCarouselTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6746DF13F41D247540A62DFECA0DC4DBF8B84F07</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iyepes/CardCarousel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6746DF13F41D247540A62DFECA0DC4DBF8B84F07</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6746DF13F41D247540A62DFECA0DC4DBF8B84F07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>animation-omniegraffle</string>
+		</dict>
+	</array>
+</dict>
+</plist>
