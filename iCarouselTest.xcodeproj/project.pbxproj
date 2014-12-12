@@ -20,8 +20,6 @@
 		F831F1171A3855F0009FF4FD /* Xcode-background.png in Resources */ = {isa = PBXBuildFile; fileRef = F831F1161A3855F0009FF4FD /* Xcode-background.png */; };
 		F831F11F1A38632A009FF4FD /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = F831F11E1A38630E009FF4FD /* iCarousel.m */; };
 		F831F1211A3896B1009FF4FD /* Xcode-header.png in Resources */ = {isa = PBXBuildFile; fileRef = F831F1201A3896B1009FF4FD /* Xcode-header.png */; };
-		F852AECD1A31818D0008B39C /* stockvault-server-network-cables142574-blur.png in Resources */ = {isa = PBXBuildFile; fileRef = F852AECC1A31818D0008B39C /* stockvault-server-network-cables142574-blur.png */; };
-		F852AECF1A3182800008B39C /* stockvault-server-network-cables142574-blur-green-gamma.png in Resources */ = {isa = PBXBuildFile; fileRef = F852AECE1A3182800008B39C /* stockvault-server-network-cables142574-blur-green-gamma.png */; };
 		F8ABC10E1A3AD38F006BD405 /* Logo1.png in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC1091A3AD38F006BD405 /* Logo1.png */; };
 		F8ABC10F1A3AD38F006BD405 /* Logo2.png in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC10A1A3AD38F006BD405 /* Logo2.png */; };
 		F8ABC1101A3AD38F006BD405 /* Logo3.png in Resources */ = {isa = PBXBuildFile; fileRef = F8ABC10B1A3AD38F006BD405 /* Logo3.png */; };
@@ -51,8 +49,6 @@
 		F831F11D1A38630E009FF4FD /* iCarousel.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
 		F831F11E1A38630E009FF4FD /* iCarousel.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iCarousel.m; sourceTree = "<group>"; };
 		F831F1201A3896B1009FF4FD /* Xcode-header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Xcode-header.png"; sourceTree = SOURCE_ROOT; };
-		F852AECC1A31818D0008B39C /* stockvault-server-network-cables142574-blur.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stockvault-server-network-cables142574-blur.png"; sourceTree = SOURCE_ROOT; };
-		F852AECE1A3182800008B39C /* stockvault-server-network-cables142574-blur-green-gamma.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stockvault-server-network-cables142574-blur-green-gamma.png"; sourceTree = SOURCE_ROOT; };
 		F8ABC1091A3AD38F006BD405 /* Logo1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo1.png; sourceTree = SOURCE_ROOT; };
 		F8ABC10A1A3AD38F006BD405 /* Logo2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo2.png; sourceTree = SOURCE_ROOT; };
 		F8ABC10B1A3AD38F006BD405 /* Logo3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo3.png; sourceTree = SOURCE_ROOT; };
@@ -128,8 +124,6 @@
 				F8ABC1131A3AD398006BD405 /* vendors-logos */,
 				F831F1201A3896B1009FF4FD /* Xcode-header.png */,
 				F831F1161A3855F0009FF4FD /* Xcode-background.png */,
-				F852AECE1A3182800008B39C /* stockvault-server-network-cables142574-blur-green-gamma.png */,
-				F852AECC1A31818D0008B39C /* stockvault-server-network-cables142574-blur.png */,
 				01C5BF7B17A43F8300B7B0BC /* Default-568h@2x.png */,
 				0148358313A36C2000E687AC /* main.m */,
 				0148358413A36C2000E687AC /* iCarouselTest-Prefix.pch */,
@@ -222,10 +216,8 @@
 			files = (
 				F8ABC1121A3AD38F006BD405 /* Logo5.png in Resources */,
 				0148359513A36C3700E687AC /* MainWindow.xib in Resources */,
-				F852AECD1A31818D0008B39C /* stockvault-server-network-cables142574-blur.png in Resources */,
 				F8ABC10E1A3AD38F006BD405 /* Logo1.png in Resources */,
 				F8ABC10F1A3AD38F006BD405 /* Logo2.png in Resources */,
-				F852AECF1A3182800008B39C /* stockvault-server-network-cables142574-blur-green-gamma.png in Resources */,
 				F8ABC1111A3AD38F006BD405 /* Logo4.png in Resources */,
 				0148359613A36C3700E687AC /* iCarouselExampleViewController.xib in Resources */,
 				01C5BF7C17A43F8300B7B0BC /* Default-568h@2x.png in Resources */,
