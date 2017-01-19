@@ -5,5 +5,5 @@ This is an implementation of iCarousel https://github.com/nicklockwood/iCarousel
 
 ## Demo
 
-![CardCarousel Demo](https://dl.dropboxusercontent.com/u/15652960/Search%20results%20general%20animated.gif)
+![CardCarousel Demo](https://github.com/iyepes/CardCarousel/blob/master/Search%20results%20general%20animated.gif)
 
